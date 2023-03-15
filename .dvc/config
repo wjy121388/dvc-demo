@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = local_remote
+['remote "local_remote"']
+    url = /home/wjy/DVC/local_remote_data_register
